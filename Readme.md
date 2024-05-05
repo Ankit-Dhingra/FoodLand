@@ -34,7 +34,7 @@ Seamless and secure online payments are facilitated through the integration with
 
 Watch the demo video to see Foodland in action:
 
-![FoodLand](https://github.com/Ankit-Dhingra/FoodLand/assets/165490728/ab636830-8bb3-4ff9-80e9-cf7303c5eb67)
+https://github.com/Ankit-Dhingra/FoodLand/assets/165490728/8da959e3-4e79-4a33-894d-89c17d63cdfb
 
 ## Installation
 
