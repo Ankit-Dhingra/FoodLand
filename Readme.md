@@ -34,8 +34,7 @@ Seamless and secure online payments are facilitated through the integration with
 
 Watch the demo video to see Foodland in action:
 
-[![Foodland Demo]("C:\Users\ankit\Pictures\Screenshots\Screenshot 2024-05-05 214711.png")](https://youtu.be/n27QqPlSz0Y?si=aNOhJc-k5BjoTP6W)
-
+[![Foodland Demo]](https://youtu.be/n27QqPlSz0Y?si=aNOhJc-k5BjoTP6W)
 ## Installation
 
 To run Foodland locally on your machine, follow these simple steps:
