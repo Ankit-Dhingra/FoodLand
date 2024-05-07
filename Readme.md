@@ -46,14 +46,14 @@ To run Foodland locally on your machine, follow these simple steps:
 2. **Run Commands**:
 
 - cd backend
-- npm install
-- npm run server
+  npm install
+  npm run server
 
 - cd frontend
-- npm install
-- npm run dev
+  npm install
+  npm run dev
 
 - cd admin
-- npm install
-- npm run dev
+  npm install
+  npm run dev
 
