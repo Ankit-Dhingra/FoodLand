@@ -44,15 +44,16 @@ To run Foodland locally on your machine, follow these simple steps:
  git clone https://github.com/Ankit-Dhingra/foodland.git
 
 2. **Run Commands**:
- cd backend
- npm install
- npm run server
 
- cd frontend
- npm install
- npm run dev
+- cd backend
+- npm install
+- npm run server
 
- cd admin
- npm install
- npm run dev
+- cd frontend
+- npm install
+- npm run dev
+
+- cd admin
+- npm install
+- npm run dev
 
